@@ -2,7 +2,7 @@
 
 pkgname=mathsat-5
 pkgver=5.2.10
-pkgrel=1
+pkgrel=2
 pkgdesc="MathSAT 5 is an efficient SMT solver supporting a wide range of theories and functionalities"
 arch=('x86' 'x86_64')
 url="http://mathsat.fbk.eu/"
